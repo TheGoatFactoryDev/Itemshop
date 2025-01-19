@@ -1,5 +1,10 @@
 {
-	"Name": "angry",
-	"Price": 50,
-	"Rarity": "common"
+    "angry": {
+        "Price": 25,
+        "Rarity": "Common"
+    },
+    "sad": {
+        "Price": 25,
+        "Rarity": "Common"
+    }
 }
