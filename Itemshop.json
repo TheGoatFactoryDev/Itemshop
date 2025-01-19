@@ -2,10 +2,10 @@
 	"angry": {
         	"Price": 25,
         	"Rarity": "Common"
-		},
+	},
     	"sad": {
         	"Price": 50,
         	"Rarity": "Common"
-		}
+	}
 
 }
