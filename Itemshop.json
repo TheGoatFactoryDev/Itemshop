@@ -1,9 +1,9 @@
 [
 	{"Name": "angry",
 	"Price": 25,
-	"Rarity": "common"},
+	},
 	
 	{"Name": "crying",
 	"Price": 50,
-	"Rarity": "uncommon"}
+	}
 ]
